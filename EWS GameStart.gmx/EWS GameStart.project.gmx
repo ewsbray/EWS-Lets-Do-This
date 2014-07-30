@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_stuff</sprite>
     <sprite>sprites\spr_plz_dont_crash</sprite>
+    <sprite>sprites\spr_phukYouGM</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
